@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T06:41:07.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36" etag="fv8pcWprCrQ5K2WCUMMT" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T06:04:40.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36" etag="JOWGUN5ZOqHZi_UQAAML" version="13.8.0" type="github">
   <diagram id="d6cZBauO_cntK9Y2CSTc" name="Page-1">
     <mxGraphModel dx="868" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="UXMJ1x9uuqICj5ODlq46-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="UXMJ1x9uuqICj5ODlq46-16" source="UXMJ1x9uuqICj5ODlq46-49" target="UXMJ1x9uuqICj5ODlq46-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UXMJ1x9uuqICj5ODlq46-49" value="Release Note" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="UXMJ1x9uuqICj5ODlq46-16">
+        <mxCell id="UXMJ1x9uuqICj5ODlq46-49" value="发布" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="UXMJ1x9uuqICj5ODlq46-16">
           <mxGeometry x="30" y="690" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UXMJ1x9uuqICj5ODlq46-17" value="RD" style="swimlane;" vertex="1" parent="1">
