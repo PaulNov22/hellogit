@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T04:11:25.802Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36" etag="3PtPw8-5KjqdQ-kBdQJk" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T08:21:07.106Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36" etag="A9F6rh0SHfl04DGxGAAm" version="13.9.2" type="github">
   <diagram id="wybusD7dyQpuJikd6Aow" name="Page-1">
-    <mxGraphModel dx="1021" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LFJnWWuSR3BtsnTksUb3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LFJnWWuSR3BtsnTksUb3-1" target="LFJnWWuSR3BtsnTksUb3-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LFJnWWuSR3BtsnTksUb3-1" value="开发完成" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="LFJnWWuSR3BtsnTksUb3-1" value="开发完成" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="10" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJnWWuSR3BtsnTksUb3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LFJnWWuSR3BtsnTksUb3-3" target="LFJnWWuSR3BtsnTksUb3-4">
@@ -16,19 +16,19 @@
         <mxCell id="LFJnWWuSR3BtsnTksUb3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LFJnWWuSR3BtsnTksUb3-3" target="LFJnWWuSR3BtsnTksUb3-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LFJnWWuSR3BtsnTksUb3-3" value="更换SDK" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="LFJnWWuSR3BtsnTksUb3-3" value="更换SDK" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="70" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LFJnWWuSR3BtsnTksUb3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LFJnWWuSR3BtsnTksUb3-4" target="LFJnWWuSR3BtsnTksUb3-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LFJnWWuSR3BtsnTksUb3-4" value="打内测包" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="LFJnWWuSR3BtsnTksUb3-4" value="打内测包" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="260" y="80" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJnWWuSR3BtsnTksUb3-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LFJnWWuSR3BtsnTksUb3-5" target="LFJnWWuSR3BtsnTksUb3-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LFJnWWuSR3BtsnTksUb3-5" value="内测" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="LFJnWWuSR3BtsnTksUb3-5" value="内测" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="400" y="80" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJnWWuSR3BtsnTksUb3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LFJnWWuSR3BtsnTksUb3-6" target="LFJnWWuSR3BtsnTksUb3-8">
@@ -38,19 +38,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFJnWWuSR3BtsnTksUb3-6" value="内测报告" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="LFJnWWuSR3BtsnTksUb3-6" value="内测报告" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="550" y="80" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJnWWuSR3BtsnTksUb3-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LFJnWWuSR3BtsnTksUb3-8" target="LFJnWWuSR3BtsnTksUb3-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LFJnWWuSR3BtsnTksUb3-8" value="提测" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="LFJnWWuSR3BtsnTksUb3-8" value="提测" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="160" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJnWWuSR3BtsnTksUb3-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LFJnWWuSR3BtsnTksUb3-9" target="LFJnWWuSR3BtsnTksUb3-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LFJnWWuSR3BtsnTksUb3-9" value="测试报告" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="LFJnWWuSR3BtsnTksUb3-9" value="测试报告" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="230" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJnWWuSR3BtsnTksUb3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LFJnWWuSR3BtsnTksUb3-10" target="LFJnWWuSR3BtsnTksUb3-12">
@@ -59,13 +59,13 @@
         <mxCell id="LFJnWWuSR3BtsnTksUb3-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LFJnWWuSR3BtsnTksUb3-10" target="LFJnWWuSR3BtsnTksUb3-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LFJnWWuSR3BtsnTksUb3-10" value="打发布包" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="LFJnWWuSR3BtsnTksUb3-10" value="打发布包" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="300" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJnWWuSR3BtsnTksUb3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LFJnWWuSR3BtsnTksUb3-12" target="LFJnWWuSR3BtsnTksUb3-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LFJnWWuSR3BtsnTksUb3-12" value="提审" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="LFJnWWuSR3BtsnTksUb3-12" value="提审" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="370" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJnWWuSR3BtsnTksUb3-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LFJnWWuSR3BtsnTksUb3-13" target="LFJnWWuSR3BtsnTksUb3-14">
@@ -74,16 +74,16 @@
         <mxCell id="LFJnWWuSR3BtsnTksUb3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LFJnWWuSR3BtsnTksUb3-13" target="LFJnWWuSR3BtsnTksUb3-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LFJnWWuSR3BtsnTksUb3-13" value="审核通过" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="LFJnWWuSR3BtsnTksUb3-13" value="审核通过" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="440" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LFJnWWuSR3BtsnTksUb3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LFJnWWuSR3BtsnTksUb3-14" target="LFJnWWuSR3BtsnTksUb3-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LFJnWWuSR3BtsnTksUb3-14" value="灰度发布" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="LFJnWWuSR3BtsnTksUb3-14" value="灰度发布" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="530" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LFJnWWuSR3BtsnTksUb3-15" value="全量发布" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="LFJnWWuSR3BtsnTksUb3-15" value="全量发布" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="610" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJnWWuSR3BtsnTksUb3-28" value="Y" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
@@ -99,19 +99,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFJnWWuSR3BtsnTksUb3-30" value="解决审核问题" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="LFJnWWuSR3BtsnTksUb3-30" value="解决审核问题" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="260" y="450" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJnWWuSR3BtsnTksUb3-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LFJnWWuSR3BtsnTksUb3-33" target="LFJnWWuSR3BtsnTksUb3-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LFJnWWuSR3BtsnTksUb3-33" value="仅安卓-选择渠道" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="LFJnWWuSR3BtsnTksUb3-33" value="仅安卓-选择渠道" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="260" y="300" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJnWWuSR3BtsnTksUb3-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LFJnWWuSR3BtsnTksUb3-34" target="LFJnWWuSR3BtsnTksUb3-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LFJnWWuSR3BtsnTksUb3-34" value="仅安卓-内测" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="LFJnWWuSR3BtsnTksUb3-34" value="仅安卓-内测" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="410" y="300" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJnWWuSR3BtsnTksUb3-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LFJnWWuSR3BtsnTksUb3-37" target="LFJnWWuSR3BtsnTksUb3-12">
@@ -122,11 +122,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFJnWWuSR3BtsnTksUb3-37" value="内测通过" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="LFJnWWuSR3BtsnTksUb3-37" value="内测通过" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="550" y="290" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LFJnWWuSR3BtsnTksUb3-40" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;各客户端获取方式&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;text-align: left&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;iOS&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;：审核通过后&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;AppStore&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;可下载最版本，灰度名单内的用户可获得最新版本推送，灰度名单外的用户不推送，但可以手动下载；公司官网可下载最新版本&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;text-align: left&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;Android&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;：先选一个渠道内测，向部分用户发送更新；内测通过后提审各个渠道商店，审核通过后可在商店内下载最新版本，由商店决定是否向用户推送更新或强制更新。提审商店同时更新官网下载链接&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;text-align: left&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;PC win+mac&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;：灰度名单内的用户可获得最新版本推送，灰度名单外的用户不推送；全量后更新官网下载链接。win需要提审360，mac不需提审&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="414" y="400" width="320" height="200" as="geometry" />
+        <mxCell id="LFJnWWuSR3BtsnTksUb3-40" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;【各客户端获取方式】&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;text-align: left&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;iOS&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;：审核通过后&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;AppStore&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;可下载最版本，灰度名单内的用户可获得最新版本推送，灰度名单外的用户不推送，但可以手动下载；公司官网可下载最新版本&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;text-align: left&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;Android&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;：先选一个渠道内测，向部分用户发送更新；内测通过后提审各个渠道商店，审核通过后可在商店内下载最新版本，由商店决定是否向用户推送更新或强制更新。提审商店同时更新官网下载链接&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;text-align: left&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;PC win+mac&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;：灰度名单内的用户可获得最新版本推送，灰度名单外的用户不推送；全量后更新官网下载链接。win需要提审360，mac不需提审&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;【两个内测的说明】&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;SDK内测：在集成了SDK、APP整体提测前开展，用于评估SDK质量。内测通过后SDK提供测试报告&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;安卓内测：APP测试通过后、提测到各渠道商店前开展，选择一个用户较多的渠道进行小范围试点发布&lt;/span&gt;&lt;/p&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="414" y="400" width="320" height="330" as="geometry" />
         </mxCell>
         <mxCell id="LFJnWWuSR3BtsnTksUb3-43" value="~3天" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="60" width="40" height="20" as="geometry" />
