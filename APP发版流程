@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T04:09:32.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36" etag="GxToVPlXUOEteSH5dI72" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T04:11:25.802Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36" etag="3PtPw8-5KjqdQ-kBdQJk" version="13.9.2" type="github">
   <diagram id="wybusD7dyQpuJikd6Aow" name="Page-1">
     <mxGraphModel dx="1021" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -105,13 +105,13 @@
         <mxCell id="LFJnWWuSR3BtsnTksUb3-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LFJnWWuSR3BtsnTksUb3-33" target="LFJnWWuSR3BtsnTksUb3-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LFJnWWuSR3BtsnTksUb3-33" value="安卓-选择渠道" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="LFJnWWuSR3BtsnTksUb3-33" value="仅安卓-选择渠道" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="260" y="300" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJnWWuSR3BtsnTksUb3-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LFJnWWuSR3BtsnTksUb3-34" target="LFJnWWuSR3BtsnTksUb3-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LFJnWWuSR3BtsnTksUb3-34" value="安卓-内测" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="LFJnWWuSR3BtsnTksUb3-34" value="仅安卓-内测" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="410" y="300" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJnWWuSR3BtsnTksUb3-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LFJnWWuSR3BtsnTksUb3-37" target="LFJnWWuSR3BtsnTksUb3-12">
